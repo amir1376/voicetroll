@@ -1,0 +1,8 @@
+{
+  "require": {
+    "longman/telegram-bot": "^0.60.0",
+    "ext-json": "*",
+    "ext-mysqli": "*",
+    "ext-mbstring": "*"
+  }
+}
